@@ -1,4 +1,4 @@
-# Hi there, I'm Anik Kumar Sur 👋
+# Hi, I'm Anik Kumar Sur
 
 🎯 **Software Quality Assurance Engineer** | 💻 **Test Automation Enthusiast** | 🌐 **Problem Solver**
 
